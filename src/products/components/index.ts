@@ -7,7 +7,7 @@ export const components: any[] = [
   PizzaItemComponent,
   PizzaFormComponent,
   PizzaDisplayComponent,
-  PizzaToppingsComponent,
+  PizzaToppingsComponent
 ];
 
 export * from './pizza-item/pizza-item.component';
