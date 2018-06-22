@@ -11,7 +11,7 @@ import { Topping } from '../../models/topping.model';
   selector: 'product-item',
   styleUrls: ['product-item.component.scss'],
   template: `
-    <div 
+    <div
       class="product-item">
       <pizza-form
         [pizza]="pizza$ | async"
